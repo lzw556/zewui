@@ -1,0 +1,13 @@
+{
+  "name": "@zewui/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "7a15869a36a62c1902e6d9a6dbf50f998935341d"
+}
